@@ -1,3 +1,7 @@
+Currently, I serve as a **Brand Representative** at **[Interactive Cares]**(https://interactivecares.com), a Campus Ambassador for the **[National Eco Olympiad 2025]**(), a **Team Member** at **[NUSDF Bangladesh]**(https://nusdfbd.com), and a **Volunteer** at the **[Bangladesh Red Crescent Society (BDRCS)]**(https://bdrcs.org).
+
+
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
